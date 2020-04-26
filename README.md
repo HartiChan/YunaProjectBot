@@ -1,2 +1,2 @@
 # YunaProjectBot
-Bot written in Odin
+Bot written in Odin.
